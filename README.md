@@ -5,7 +5,7 @@
 - 🔭 Eu estou a procura de um estagio :) 
 - 🌱 Formado em Analise e Desenvolvimento de Sistemas pela FATEC
 - 📜 Estudante de Ciencias da Computação pela Uni-Facef
-- 🤔 Estou a procura de direção profissional e pessoal 
+- 🤔 
 
 <br />
 
