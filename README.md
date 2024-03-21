@@ -10,9 +10,10 @@
 <br />
 
 <div> 
-  
   <a href="https://github.com/LucasEliass">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=LucasEliass&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=LucasEliass&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vervel.app/api/top-langs/?username=LucasEliass&layout=compact&langs_count=7&theme=react"/>
+  <div align="center"> <div/>
     
   <br />
 
