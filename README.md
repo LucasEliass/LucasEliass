@@ -3,7 +3,8 @@
 
 
 - 🔭 Eu estou a procura de um estagio :) 
-- 🌱 Sou estudande de Analise e Desenvolvimento de Sistemas pela FATEC
+- 🌱 Formado em Analise e Desenvolvimento de Sistemas pela FATEC
+- 📜 Estudante de Ciencias da Computação pela Uni-Facef
 - 🤔 Estou a procura de direção profissional e pessoal 
 
 <br />
